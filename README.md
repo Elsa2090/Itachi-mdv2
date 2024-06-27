@@ -1,18 +1,16 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> 𝚻𝚯𝚸𝐔 𝚳𝐃 </h1>
+ <h1 align="center"> 𝕀𝕋𝔸ℂℍ𝕀 𝕄𝔻 𝕍𝟚 </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+TOPU+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TOPUDMH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗜𝗧𝗔𝗖𝗛𝗜+𝗠𝗗+𝗩𝟮+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬;𝗕𝗥𝗬𝗔𝗡𝗧+𝗧𝗘𝗖𝗛)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> Introducing TOPU Md, A Simple WhatsApp user BOT, Created by topu Tech.
-</p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/13f1bb945857eb9b1eca6.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/29e6b762b5a51119c7b8b.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -36,7 +34,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Toputech/Topu-ai/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Elsa2090/Itachi-mdv2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -47,7 +45,7 @@
 
 3. Deploy on heroku
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-ai' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Elsa2090/Itachi-mdv2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -64,8 +62,8 @@ Please Use Node Version Higher to Get The Best Performance.
 | 20.x   | ✅                |
 
 ## Support 
-## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r" target="_blank">
+## Join my WhatsApp for updates and get free cc
+<a href="https://chat.whatsapp.com/DOko0OMbzD3DPZmIADnT95" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -74,7 +72,7 @@ Please Use Node Version Higher to Get The Best Performance.
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me+255673750170">
+   <a href="https://wa.me+233530729233">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -85,8 +83,8 @@ HOW TO REACH THE OWNER?
 
 
 
-## Makesure you follow my channel for latest updates for TOPU MD bot and free CC
- [`WA CHANNEL`](https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r)
+## Make sure you follow my channel for latest updates for ITACHI MD bot and free CC
+ [`WA CHANNEL`](https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L)
 
 
 
@@ -94,7 +92,7 @@ HOW TO REACH THE OWNER?
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
    
-## Thankyou for choosing TOPU MD bot 
+✦𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥 𝗖𝗛𝗢𝗢𝗦𝗜𝗡𝗚 𝗜𝗧𝗔𝗖𝗛𝗜 𝗠𝗗 𝗩𝟮✦ ( ◜‿◝ )♡
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -102,15 +100,14 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to *TOPU-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *ITACHI-MD-V2* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 # Security Notice
-TOPU Md is safe for your WhatsApp and heroku
-
-## Reporting a Vulnerability
+ITACHI Md v2 is safe for your WhatsApp and heroku
 
 
-## powered by TOPU MD
+
+♥︎𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗕𝗥𝗬𝗔𝗡𝗧 𝗧𝗘𝗖𝗛♥︎
 
 
 ## THANKS TO
@@ -122,12 +119,14 @@ TOPU Md is safe for your WhatsApp and heroku
 
 [king ibrahim]
 
+[Topu tech]
+
 ## License
 
 
-The *TOPU-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *ITACHI-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *TOPU-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by TOPU Tech
+Enjoy the diverse features of the *ITACHI-MD-V2*  to enhance your Whatsapp more enjoyable
+☣Powered by Bryant Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
