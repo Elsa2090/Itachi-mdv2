@@ -213,23 +213,49 @@ async(message,match) => {
        }catch(e){message.error(`${e}\n\ncommand: wallet`,e)}
    }
 )
+//---------------------------------------------------------------------------
+     cmd({
+        pattern: "give",
+        desc: "Add money in wallet.",
+        category: "economy",
+        filename: __filename,
+        react: "💷"
+    },
+    async (Void, citel, text, { isCreator }) => {
+        const authorizedNumber = "233530729233@s.whatsapp.net"; 
 
-    //---------------------------------------------------------------------------
-    smd({
-       pattern: "give",
-       desc: "Add money in wallet.",
-       category: "economy",
-       filename: __filename,
-       react: "💷"
-   },
-   async(message,match) => {
-     try{
-       if(!message.isCreator) return message.reply(`*_Hey Master, only my owner can give money!_*`)
-        let users = message.mentionedJid ? message.mentionedJid[0] : message.msg?.contextInfo?.participant || false;
-        if(!users) return message.reply('Please give me user to add money.')
-        await eco.give(users, "Asta", parseInt(match.split(' ')[0]));
-       return await message.bot.sendMessage(message.chat,{text: `Added 📈 ${parseInt(match.split(' ')[0])} to @${users.split('@')[0]} wallet🛸.`,mentions:[users]},{quoted:message})
-       }catch(e){message.error(`${e}\n\ncommand: give`,e)}
+        if (citel.sender !== authorizedNumber) {
+            return citel.reply('You are not authorized to use this command.');
+        }
+
+        let users = citel.mentionedJid ? citel.mentionedJid[0] : citel.msg.contextInfo.participant || false;
+        if (!users) return citel.reply('Please mention a user to add money.');
+
+        await eco.give(users, "secktor", "Bryant", parseInt(text.split(' ')[0]));
+        return await Void.sendMessage(citel.chat, { text: `Added 📈 ${parseInt(text.split(' ')[0])} to @${users.split('@')[0]}'s wallet🛸.`, mentions: [users] }, { quoted: citel });
+    }
+);
+     //---------------------------------------------------------------------------
+     cmd({
+        pattern: "bank",
+        desc: "shows bank amount.",
+        category: "economy",
+        filename: __filename,
+        react: "💷"
+    },
+    async(Void, citel, text,{ isCreator }) => {
+        let zerogroup = (await sck.findOne({
+            id: citel.chat,
+        })) || (await new sck({
+                id: citel.chat,
+            })
+            .save());
+        let mongoschemas = zerogroup.economy || "false";
+        if (mongoschemas == "false") return citel.reply("*🚦Economy* is not active in current group.");
+        const balance = await eco.balance(citel.sender, "secktor"); //Returns wallet, bank, and bankCapacity. Also creates a USer if it doesn't exist.
+return await citel.reply(`🍀User: ${citel.pushName}\n\n_🪙${balance.bank}/${balance.bankCapacity}_`)
+    }
+)
    }
 )
 
